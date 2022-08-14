@@ -6,12 +6,16 @@
         {
             Console.WriteLine(" Wellcome to the Algorithm Problems");
 
-            InsertionSort sort = new InsertionSort();
-            sort.CheckSorting();
+            //InsertionSort sort = new InsertionSort();
+            //sort.CheckSorting();
 
-            BubbleSort bsort = new BubbleSort();
-            bsort.Sorting();
+            //BubbleSort bsort = new BubbleSort();
+            //bsort.Sorting();
 
+            //Anagram anagram = new Anagram();
+            //anagram.checkAnagram();
+
+            PrimeNumber.PrimeNumbers();
 
         }
     }
