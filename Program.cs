@@ -8,6 +8,11 @@
 
             InsertionSort sort = new InsertionSort();
             sort.CheckSorting();
+
+            BubbleSort bsort = new BubbleSort();
+            bsort.Sorting();
+
+
         }
     }
 }
