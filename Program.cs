@@ -15,7 +15,9 @@
             //Anagram anagram = new Anagram();
             //anagram.checkAnagram();
 
-            PrimeNumber.PrimeNumbers();
+            //PrimeNumber.PrimeNumbers();
+
+            PrimePalindromNumber.PrimeNumbers();
 
         }
     }
